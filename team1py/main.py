@@ -93,3 +93,4 @@ if __name__ == "__main__":  # uvicorn main:app 인경우 포트와 uvicorn 실�
     uvicorn.run(app, host="0.0.0.0", port=8080)
 
 # uvicorn main:app --reload로 실행
+# 소스트리 실험용
